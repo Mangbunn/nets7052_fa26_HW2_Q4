@@ -1,4 +1,4 @@
-# Network Centrality Matrix & Path Measures From Scratch
+# Network Centrality Measures From Scratch
 
 A lightweight Python implementation of primary structural graph centrality algorithms from scratch.
 
