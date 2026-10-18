@@ -18,7 +18,7 @@ A lightweight Python implementation of primary structural graph centrality algor
 | `group_closeness_centrality` | Combined distance metric from target sets to components. | Multi-source Breadth-First-Search (BFS). |
 | `centrality_comparisons` | Multi-axes normalized coloring grid generator. | Visual Matplotlib rendering suite. |
 
-## 🚀 Live Evaluation Pipeline
+## Live Evaluation Pipeline
 
 ```python
 import networkx as nx
