@@ -37,3 +37,4 @@ metrics = {
 # Render across analytical graphs
 centrality_comparisons(G, pos, metrics)
 ```
+![Dancing Character](skellybro.gif)
