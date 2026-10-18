@@ -1,5 +1,9 @@
 # Network Centrality Measures From Scratch
 
+
+![Dancing Character](skellybro.gif)
+
+
 A lightweight Python implementation of primary structural graph centrality algorithms from scratch.
 
 ##Local Package Installation
@@ -37,4 +41,4 @@ metrics = {
 # Render across analytical graphs
 centrality_comparisons(G, pos, metrics)
 ```
-![Dancing Character](skellybro.gif)
+
