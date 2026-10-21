@@ -8,4 +8,4 @@ version = "0.1.0"
 dependencies = [ "numpy", "pandas", "networkx", "matplotlib" ]
 
 [tool.setuptools.packages.find]
-where = ["."]
+where = ["src"]
