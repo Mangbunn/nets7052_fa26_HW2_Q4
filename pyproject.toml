@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nets7052-hw2-q4"
+version = "0.1.0"
+dependencies = [ "numpy", "pandas", "networkx", "matplotlib" ]
+
+[tool.setuptools.packages.find]
+where = ["."]
